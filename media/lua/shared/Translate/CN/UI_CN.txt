@@ -1,0 +1,12 @@
+UI_CN = {
+	UI_QSystem_Trade = "交易"
+	UI_QSystem_Trade_List_1 = "出售"
+	UI_QSystem_Trade_List_2 = "购入"
+	UI_QSystem_Trade_List_3 = "NPC库存"
+	UI_QSystem_Trade_Single = "「该物品价值 %i」"
+	UI_QSystem_Trade_Multiple = "「每件物品价值 %i」"
+	UI_QSystem_Trade_Barter = "成交"
+	UI_QSystem_Trade_Close = "关闭"
+	UI_QSystem_Trade_Clear = "清空"
+	UI_QSystem_Trade_Confirm = " <CENTRE> 您购入的物品价值低于您出售的物品价值. <LINE> 差价将不会得到补偿！ <LINE> <LINE> 是否继续？"
+}

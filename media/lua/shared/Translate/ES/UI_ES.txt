@@ -1,0 +1,12 @@
+UI_ES = {
+	UI_QSystem_Trade = "Comerciar"
+	UI_QSystem_Trade_List_1 = "Oferta"
+	UI_QSystem_Trade_List_2 = "Demanda"
+	UI_QSystem_Trade_List_3 = "Inventario"
+	UI_QSystem_Trade_Single = ""Este cuesta %i.""
+	UI_QSystem_Trade_Multiple = ""Todos esos cuestan %i.""
+	UI_QSystem_Trade_Barter = "Intercambiar"
+	UI_QSystem_Trade_Close = "Cerrar"
+	UI_QSystem_Trade_Clear = "Limpiar"
+	UI_QSystem_Trade_Confirm = " <CENTRE> El valor de las demandas es inferior al de las ofertas. <LINE> El resto se perderá. <LINE> <LINE> ¿Proceder?"
+}

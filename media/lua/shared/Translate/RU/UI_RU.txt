@@ -1,0 +1,12 @@
+UI_RU = {
+	UI_QSystem_Trade = "Торговать"
+	UI_QSystem_Trade_List_1 = "Предлагаю"
+	UI_QSystem_Trade_List_2 = "Покупаю"
+	UI_QSystem_Trade_List_3 = "Список товаров"
+	UI_QSystem_Trade_Single = ""Это стоит %i.""
+	UI_QSystem_Trade_Multiple = ""Цена одной штуки - %i.""
+	UI_QSystem_Trade_Barter = "Обмен"
+	UI_QSystem_Trade_Close = "Закрыть"
+	UI_QSystem_Trade_Clear = "Очистить"
+	UI_QSystem_Trade_Confirm = " <CENTRE> Ценность покупаемых предметов ниже ценности предлагаемых. Остаток будет потерян. <LINE> <LINE> Продолжить?"
+}
